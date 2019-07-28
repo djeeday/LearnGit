@@ -1,0 +1,7 @@
+bin/*
+cgi-bin/*
+cgi-scripts/*
+linkStudy/*
+permStudy/*
+.directory
+.vscode/
